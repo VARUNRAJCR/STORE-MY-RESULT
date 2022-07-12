@@ -1,1 +1,1 @@
-# STORE-MY-RESULT
+# store.my.results
